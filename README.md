@@ -1,2 +1,0 @@
-# DemocodeBoard
-New rego
